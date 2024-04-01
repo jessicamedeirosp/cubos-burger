@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Hamburguer 2 queijos",
+      "description": "Pão - Carne 180g - Mussarela - Cheedar",
+      "price": 3600,
+      "category": "hamburguer"
+    },
+    {
+      "id": "2",
+      "title": "Hamburguer Cheedar",
+      "description": "Pão - Carne 180g - Cheedar - Alface",
+      "price": 3500,
+      "category": "hamburguer"
+    },
+    {
+      "id": "3",
+      "title": "Hamburguer Bacon",
+      "description": "Pão - Carne 180g - Cheedar - Bacon",
+      "price": 3400,
+      "category": "hamburguer"
+    },
+    {
+      "id": "4",
+      "title": "Coca-Cola",
+      "description": "lata 330ml",
+      "price": 400,
+      "category": "bebidas"
+    },
+    {
+      "id": "5",
+      "title": "Coca-Cola",
+      "description": "garrafa 2l",
+      "price": 1500,
+      "category": "bebidas"
+    },
+    {
+      "id": "6",
+      "title": "Coca-Cola",
+      "description": "garrafa 1l",
+      "price": 1000,
+      "category": "bebidas"
+    }
+  ],
+  "cart": [
+    {
+      "id": "a1bcfc5b-69f0-4d63-a0d9-ab7ae35736a6",
+      "title": "Hamburguer Bacon",
+      "description": "Pão - Carne 180g - Cheedar - Bacon",
+      "price": 3400,
+      "category": "hamburguer",
+      "idProduct": "3",
+      "quantity": 1
+    }
+  ]
+}

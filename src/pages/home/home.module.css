@@ -1,0 +1,19 @@
+.products__body {
+  display: flex;
+  gap: 40px;
+}
+
+.products__title {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin-bottom: 13px;
+}
+
+.space {
+  margin: 32px auto;
+  border: 0;
+}

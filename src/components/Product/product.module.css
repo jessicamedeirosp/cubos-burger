@@ -1,0 +1,36 @@
+.product {
+  text-align: center;
+  color: var(--white-900);
+  background-color: var(--black-900);
+  width: 332px;
+  padding: 21px 16px;
+  border-radius: var(--border-radius);
+}
+
+.product__title {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0px;
+}
+.product__description {
+  color: var(--gray-150);
+  font-size: 12px;
+}
+
+.product__price {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.2;
+  padding: 13px 0;
+}
+
+.product__image {
+  height: 200px;
+  margin-bottom: 13px;
+}
+
+.product__button {
+  width: 200px;
+}
